@@ -32,7 +32,7 @@
     "jquery-ui": "^1.14.1",
     "popper.js": "^1.16.1",
     "react": "^19.2.1",
-    "react-dom": "^19.2.1",
+    "react-dom": "^19.2.3",
     "react-dropzone": "^14.3.8",
     "tinymce": "^8.3.0"
   },
